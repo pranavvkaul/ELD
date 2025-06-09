@@ -1,10 +1,8 @@
-
-
 # ELD — Embedded Logic Design Labs
 This repository contains my solutions and design files for lab assignments from the Embedded Logic Design (ECE270) course at IIIT-Delhi.
 
 # Structure
-The repo includes lab projects and FFT implementations in C
+The repo includes lab projects and FFT implementations in C/C++
 
 # Tools Used
 Xilinx Vivado for digital design and simulation
